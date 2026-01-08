@@ -1,0 +1,2 @@
+# UniPrep
+Uniprep is my 1st semester PF project. It is a simple console program built in C that helps students practice for university entry tests. The idea behind this project is to give students a realistic way to test themselves under time pressure, while also helping them explore which universities they may qualify for based on their intermediate percentage. The program allows students to register, pick a university and subject, attempt MCQs with a time limit, and then see their score. Scores are also saved so that a leaderboard can be displayed later.
