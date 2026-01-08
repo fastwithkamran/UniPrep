@@ -1,7 +1,8 @@
 Name | Email | Subject | Score
 ------------------------------------
 
-a | a@gmail.com | English | 8/25
-Kamran | kamran@gmail.com | IQ | 3/25
-Kamran | kamran@gmail.com | Biology | 5/25
-Kamran | kamranayaz34@gmail.com | Physics | 0/25
+Qasim | qasim@gmail.com | English | 7 | 20
+Nabeel | nabeel@gmail.com | Physics | 16 | 25
+Syed Ahmed | ahmed@gmail.com | Maths| 23 | 30
+
+Kamran | kamran@gmail.com | IQ | 14 | 20
